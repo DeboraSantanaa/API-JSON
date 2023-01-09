@@ -1,0 +1,95 @@
+{
+    "profissional": [
+      {
+        "id": 1,
+        "cro": "3598-222",
+        "nome": "Debora",
+        "foto": "https://avatars.githubusercontent.com/u/113525688?s=400&u=27bdf6fc4c57fe21fe9c19e737826711f4a0f705&v=4",
+        "servicoId": 1
+      },
+      {
+        "nome": "Felipe",
+        "cro": "3598-111",
+        "foto": "https://avatars.githubusercontent.com/u/113525688?s=400&u=27bdf6fc4c57fe21fe9c19e737826711f4a0f705&v=4",
+        "servicoId": 2,
+        "id": 2
+      },
+      {
+        "nome": "Paulo",
+        "cro": "3598-444",
+        "foto": "https://avatars.githubusercontent.com/u/113525688?s=400&u=27bdf6fc4c57fe21fe9c19e737826711f4a0f705&v=4",
+        "servicoId": 3,
+        "id": 3
+      },
+      {
+        "nome": "Laura",
+        "cro": "3598-333",
+        "foto": "https://avatars.githubusercontent.com/u/113525688?s=400&u=27bdf6fc4c57fe21fe9c19e737826711f4a0f705&v=4",
+        "servicoId": 4,
+        "id": 4
+      }
+    ],
+    "servico": [
+      {
+        "id": 1,
+        "nome": "Clareamento",
+        "descricao": "Tratamento utilizado para tornar os dentes mais brancos.",
+        "valor": 200
+      },
+      {
+        "nome": "Endodontia",
+        "descricao": "Tratamento de Canal, responsável pela prevenção e tratamento das doenças da polpa do dente.",
+        "valor": 200,
+        "id": 2
+      },
+      {
+        "nome": "Odontopediatria",
+        "descricao": "Atendimento especializado para crianças.",
+        "valor": 200,
+        "id": 3
+      },
+      {
+        "nome": "Remoção de cistos",
+        "descricao": "Os cistos podem ter origem no desenvolvimento das estruturas bucais, como dentes e gengivas, ou origem congênita, isto é, desde o nascimento. Em ambas as situações, a remoção é possível e necessária por meio de cirurgia odontológica.",
+        "valor": 200,
+        "id": 4
+      }
+    ],
+    "agenda": [
+      {
+        "id": 1,
+        "cliente": "Maria",
+        "data": "23/09/2023",
+        "horario": "13:00",
+        "servicoId": 1
+      },
+      {
+        "cliente": "Clara",
+        "data": "21/07/2023",
+        "horario": "13:00",
+        "servicoId": 2,
+        "id": 2
+      },
+      {
+        "cliente": "João",
+        "data": "11/03/2023",
+        "horario": "09:30",
+        "servicoId": 3,
+        "id": 3
+      },
+      {
+        "cliente": "Joana",
+        "data": "11/03/2023",
+        "horario": "10:30",
+        "servicoId": 3,
+        "id": 4
+      },
+      {
+        "cliente": "Pedro",
+        "data": "10/03/2023",
+        "horario": "11:30",
+        "servicoId": 4,
+        "id": 5
+      }
+    ]
+  }
