@@ -6,7 +6,7 @@ Neste projeto, a proposta é desenvolver um servidor json (Json-server) com 3 ou
 a entidade que será utilizada nas rotas precisa ter 4 ou mais atributos.
 Usuário poderá realizar o GET, POST, PUT e DELETE.
 
-ff69b4 ## Tema 
+color: ff69b4 ## Tema 
 Tema Escolhido: Dentista  🦷 <br> 
 
 ## Deploy 
