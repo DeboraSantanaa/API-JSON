@@ -61,35 +61,40 @@
         "cliente": "Maria",
         "data": "23/09/2023",
         "horario": "13:00",
-        "servicoId": 1
+        "servicoId": 1,
+        "status": "Realizado"
       },
       {
         "cliente": "Clara",
         "data": "21/07/2023",
         "horario": "13:00",
         "servicoId": 2,
-        "id": 2
+        "id": 2,
+        "status": "Realizado"
       },
       {
         "cliente": "João",
         "data": "11/03/2023",
         "horario": "09:30",
         "servicoId": 3,
-        "id": 3
+        "id": 3,
+        "status": "Em Espera"
       },
       {
         "cliente": "Joana",
         "data": "11/03/2023",
         "horario": "10:30",
         "servicoId": 3,
-        "id": 4
+        "id": 4,
+        "status": "Em Espera"
       },
       {
         "cliente": "Pedro",
         "data": "10/03/2023",
         "horario": "11:30",
         "servicoId": 4,
-        "id": 5
+        "id": 5,
+        "status": "Em Espera"
       }
     ]
   }
