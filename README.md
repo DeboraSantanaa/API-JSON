@@ -1,4 +1,4 @@
-#  Json Server "Estão Servidos?" 🦷
+#  Json Server "Estão Servidos?" 
 
 
 ## Detalhes do Projeto 
@@ -7,7 +7,7 @@ a entidade que será utilizada nas rotas precisa ter 4 ou mais atributos.
 Usuário poderá realizar o GET, POST, PUT e DELETE.
 
 ## Tema 
-Tema Escolhido: Dentista <br> 🦷
+Tema Escolhido: Dentista  🦷 <br> 
 
 ## Deploy 
 O deploy pode ser visto neste link: https://deboras-smile.onrender.com
