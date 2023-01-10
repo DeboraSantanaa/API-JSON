@@ -15,7 +15,7 @@ O deploy pode ser visto neste link: https://deboras-smile.onrender.com
 Este Json foi feito em uma abordagem configurando tudo em um arquivo .js. <br>
 É recomendado esta abordagem para que não exista problemas na hora da hospedagem.
 
-## Previa visualização do Json
+## Previa do Json
 (Click na imagem para uma melhor visualização)
 
 ![jsoncrack com (1)](https://user-images.githubusercontent.com/113525688/211557725-ca28eca4-623c-4f8f-8af6-201f7e2c0487.png)
