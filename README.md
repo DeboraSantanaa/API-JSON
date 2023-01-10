@@ -1,4 +1,4 @@
-#  3 Trabalho Individual - "Estão Servidos?"  🦷 
+# 3° Trabalho Individual - "Estão Servidos?"  🦷 
 
 ## Detalhes do Projeto 
 Neste projeto, a proposta é desenvolver um servidor json (Json-server) com 3 ou mais rotas,
