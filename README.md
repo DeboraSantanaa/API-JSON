@@ -1,7 +1,8 @@
 # API-JSON
 
 
-SOBRE O PROJETO: Foi proposto o desenvolvimento de um servidor Json (JSON-SERVER)
+SOBRE O PROJETO: <br>
+Foi proposto o desenvolvimento de um servidor Json (JSON-SERVER)
 
 
 Tema Escolhido: Dentista <br>
