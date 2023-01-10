@@ -2,7 +2,7 @@
 
 
 SOBRE O PROJETO <br>
-Foi proposto o desenvolvimento de um servidor Json (JSON-SERVER)
+Foi proposto o desenvolvimento de um servidor Json (JSON-SERVER) <br>
 com 3 rotas e com 4+ dados nas quais o
 usuário poderá realizar o GET, POST, PUT,
 DELETE
