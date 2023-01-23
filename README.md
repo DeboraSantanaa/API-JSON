@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=3%C2%B0+Trabalho+Individual+-+%22Est%C3%A3o+Servidos%3F%22++%F0%9F%A6%B7+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=3%C2%B0+Trabalho+Individual+;+%22Est%C3%A3o+Servidos%3F%22++%F0%9F%A6%B7+)](https://git.io/typing-svg)
 
 ## Detalhes do Projeto 
 Neste projeto, a proposta é desenvolver um servidor json (Json-server) com 3 ou mais rotas,
