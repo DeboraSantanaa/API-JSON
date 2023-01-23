@@ -19,3 +19,7 @@ Este Json foi feito em uma abordagem configurando tudo em um arquivo .js. <br>
 (Click na imagem para uma melhor visualização)
 
 ![jsoncrack com (1)](https://user-images.githubusercontent.com/113525688/211557725-ca28eca4-623c-4f8f-8af6-201f7e2c0487.png)
+
+
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge)
